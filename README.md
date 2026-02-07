@@ -1,4 +1,4 @@
-# AQUAGUARD - IoT Smart Monitoring System for Aquaculture
+# AQUAGUARD - IoT Smart Monitoring System for Agriculture & Aquaculture
 This project presents an IoT based environmental monitoring system that tracks critical parameters and generates alerts when unsafe conditions occur.
 
 # System Overview
